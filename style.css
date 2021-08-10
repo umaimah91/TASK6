@@ -50,8 +50,8 @@ nav{
  }
  .cart a:hover{
          color:#5624D0 ;
-
  }
+
 .block-search{
             display: inline-block;
             padding-right: 24px;
@@ -65,10 +65,9 @@ div{
 .nav-icon{
             text-decoration:none;
             color: #000;
-            margin-right: 10px;
-    
-    
+            margin-right: 10px;    
 }
+
 .nav-icon a {
             padding-right: 20px;
             cursor: pointer;
@@ -84,11 +83,11 @@ div{
           background-color: #f7f9fa;
 
 }
+
 a .sign-up:active{
     background-color: #000;
     color: #fff;
 }
-
 
 form{
     width: 100%;
@@ -99,8 +98,6 @@ input{
         height: 40px;
         width: 300px;
         outline: none;
-
-
 }
 
 
@@ -113,15 +110,12 @@ input{
 }
    .box{
        display: inline-block;
-       z-index: 999;
         border: 1px solid #000;
         width: 260px;
         margin-top: -200px;
         margin-left: 20px;
         padding: 24px;
         background: #fff;
-        box-shadow: 0 2px 4px rgb(0 0 0 / 8%), 0 4px 12px rgb(0 0 0 / 8%);
-        
    }
 
 .box form input{
@@ -142,6 +136,7 @@ h1{
    margin-left: 35px;
 
 }
+
 .images{
         display: inline-block;
         margin-right: 10px;
